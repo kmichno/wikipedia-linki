@@ -51,7 +51,4 @@ int main()
 	cout << "Path length: " << t->getDistance() << endl;
 	goPath(t);
 
-	int n;
-
-	cin >> n;
 }
